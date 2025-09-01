@@ -772,9 +772,10 @@ st.markdown(
     <hr>
     <div style='text-align: center; padding: 20px 0;'>
         <p style='font-size: 1.2em; font-family: "Helvetica Neue", sans-serif; color: #a3a8b8;'>
-             Supply Chain Analytics Dashboard | Created with by <a href='https://github.com/IamAmbrose' target='_blank' style='color: #4bc0c0; text-decoration: none;'>Ambrose Henryss</a>
+             Supply Chain Analytics Dashboard | Created with by <a href='https://github.com/IamAmbrose' target='_blank' style='color: #4bc0c0; text-decoration: none;'>Ambrose Henry</a>
         </p>
     </div>
     """,
     unsafe_allow_html=True
+
 )
