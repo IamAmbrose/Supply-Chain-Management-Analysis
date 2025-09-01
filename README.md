@@ -33,8 +33,9 @@ This project provides an in-depth analysis of supply chain data, focusing on key
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/rabhinav0906/Supply-Chain-Management-Analysis.git
+git clone https://github.com/IamAmbrose/Supply-Chain-Management-Analysis.git
 cd Supply-Chain-Management-Analysis
 
 pip install -r requirements.txt
 streamlit run app.py
+
